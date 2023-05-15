@@ -1,5 +1,5 @@
 ## GREDDIIT
-### Made with Love by Ashna Dua
+#### Made with Love by Ashna Dua
 <br/>
 
 ### Register Page:
