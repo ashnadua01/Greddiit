@@ -1,6 +1,5 @@
 ## GREDDIIT
 ### Made with Love by Ashna Dua
-<br/>
 
 ### Register Page:
 This page opens a form for a new user to register. If the required fields is missing, it shows an alert. Also, if the username or email exists, it shows an alert as well. 
